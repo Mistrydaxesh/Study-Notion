@@ -1,0 +1,5 @@
+ "dev": "concurrently -n \"client,server\" -c \"bgBlue,bgYellow\" \"npm start\" \"npm run server\"",
+    "server":"cd server && npm run dev",
+
+
+    https://github.com/react-simple-code-editor/react-simple-code-editor/issues/86
